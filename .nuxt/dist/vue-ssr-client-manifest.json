@@ -2,28 +2,28 @@
   "publicPath": "/_nuxt/",
   "all": [
     "vendor.dc56dd631ed5d52e1c2d.js",
-    "pages_info.6808c0a46dd376f3d001.js",
+    "pages_info.2c4f40302a1fd62d253f.js",
     "pages_index.ee1778bbb3824ca07f22.js",
     "pages_about.7cbbf86565a137b84b81.js",
     "layouts_default.5544ad4835de7bd8f379.js",
-    "pages_blog.1c8acf741a1b51fddd0f.js",
-    "app.71268856505b05673fe8.js",
-    "manifest.61b4512f76f3495690b1.js",
+    "pages_blog.6878d1959bf3cdaeaf1a.js",
+    "app.2339908172bf468f07e9.js",
+    "manifest.1b44b8a12fd04f79fbdd.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.61b4512f76f3495690b1.js",
+    "manifest.1b44b8a12fd04f79fbdd.js",
     "vendor.dc56dd631ed5d52e1c2d.js",
-    "app.71268856505b05673fe8.js"
+    "app.2339908172bf468f07e9.js"
   ],
   "async": [
-    "pages_info.6808c0a46dd376f3d001.js",
+    "pages_info.2c4f40302a1fd62d253f.js",
     "pages_index.ee1778bbb3824ca07f22.js",
     "pages_about.7cbbf86565a137b84b81.js",
     "layouts_default.5544ad4835de7bd8f379.js",
-    "pages_blog.1c8acf741a1b51fddd0f.js"
+    "pages_blog.6878d1959bf3cdaeaf1a.js"
   ],
   "modules": {
     "45450895": [
