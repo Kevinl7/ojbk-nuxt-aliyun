@@ -3,10 +3,10 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-const _190dc1a4 = () => import('..\\pages\\info.vue' /* webpackChunkName: "pages_info" */).then(m => m.default || m)
-const _31f81ad0 = () => import('..\\pages\\blog.vue' /* webpackChunkName: "pages_blog" */).then(m => m.default || m)
 const _7207c207 = () => import('..\\pages\\about.vue' /* webpackChunkName: "pages_about" */).then(m => m.default || m)
+const _31f81ad0 = () => import('..\\pages\\blog.vue' /* webpackChunkName: "pages_blog" */).then(m => m.default || m)
 const _dc80c668 = () => import('..\\pages\\index.vue' /* webpackChunkName: "pages_index" */).then(m => m.default || m)
+const _5c3c87f2 = () => import('..\\pages\\_info.vue' /* webpackChunkName: "pages__info" */).then(m => m.default || m)
 
 
 
@@ -67,9 +67,9 @@ export function createRouter () {
     scrollBehavior,
     routes: [
 		{
-			path: "/info",
-			component: _190dc1a4,
-			name: "info"
+			path: "/about",
+			component: _7207c207,
+			name: "about"
 		},
 		{
 			path: "/blog",
@@ -77,14 +77,14 @@ export function createRouter () {
 			name: "blog"
 		},
 		{
-			path: "/about",
-			component: _7207c207,
-			name: "about"
-		},
-		{
 			path: "/",
 			component: _dc80c668,
 			name: "index"
+		},
+		{
+			path: "/:info",
+			component: _5c3c87f2,
+			name: "info"
 		}
     ],
     
