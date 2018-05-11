@@ -2,28 +2,28 @@
   "publicPath": "/_nuxt/",
   "all": [
     "vendor.dc56dd631ed5d52e1c2d.js",
-    "pages__info.2af639228002ab3ea1dc.js",
+    "pages_info__id.601465b8e296d830a811.js",
     "pages_index.ee1778bbb3824ca07f22.js",
     "pages_about.7cbbf86565a137b84b81.js",
     "layouts_default.5544ad4835de7bd8f379.js",
-    "pages_blog.cee798897374bf355060.js",
-    "app.b0ea694a379a3bca22bc.js",
-    "manifest.15fb3a653923a26e8317.js",
+    "pages_blog.7530fbfb8b2f571b1106.js",
+    "app.49ae2feaaf29f9a20383.js",
+    "manifest.3ff428590a09a00b52a9.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.15fb3a653923a26e8317.js",
+    "manifest.3ff428590a09a00b52a9.js",
     "vendor.dc56dd631ed5d52e1c2d.js",
-    "app.b0ea694a379a3bca22bc.js"
+    "app.49ae2feaaf29f9a20383.js"
   ],
   "async": [
-    "pages__info.2af639228002ab3ea1dc.js",
+    "pages_info__id.601465b8e296d830a811.js",
     "pages_index.ee1778bbb3824ca07f22.js",
     "pages_about.7cbbf86565a137b84b81.js",
     "layouts_default.5544ad4835de7bd8f379.js",
-    "pages_blog.cee798897374bf355060.js"
+    "pages_blog.7530fbfb8b2f571b1106.js"
   ],
   "modules": {
     "45450895": [
@@ -86,6 +86,9 @@
     "fd59bfee": [
       0
     ],
+    "5c988efc": [
+      1
+    ],
     "514754b6": [
       0
     ],
@@ -98,11 +101,11 @@
     "0b29ba56": [
       0
     ],
-    "3927cfcd": [
-      1
-    ],
     "e4fe2662": [
       6
+    ],
+    "6d771f12": [
+      1
     ],
     "631a4196": [
       0
@@ -221,6 +224,9 @@
     "4ffccf34": [
       0
     ],
+    "262ec522": [
+      1
+    ],
     "45f9e50e": [
       6
     ],
@@ -247,6 +253,9 @@
     ],
     "4e1a0116": [
       0
+    ],
+    "6d688f55": [
+      1
     ],
     "61437c27": [
       0
@@ -281,9 +290,6 @@
     "048cac64": [
       0
     ],
-    "398e24a0": [
-      1
-    ],
     "34383ec7": [
       0
     ],
@@ -292,6 +298,9 @@
     ],
     "3dd3b1aa": [
       0
+    ],
+    "736fc854": [
+      1
     ],
     "329f0f74": [
       0
@@ -376,9 +385,6 @@
     ],
     "7c026895": [
       0
-    ],
-    "73df39ce": [
-      1
     ],
     "c3732f98": [
       0
@@ -599,12 +605,6 @@
     "591ffcd3": [
       0
     ],
-    "c038ce62": [
-      1
-    ],
-    "57688e3a": [
-      1
-    ],
     "7caa7e8b": [
       6
     ],
@@ -615,9 +615,6 @@
       2
     ],
     "d2c1fe80": [
-      0
-    ],
-    "1ff3b10a": [
       0
     ],
     "3ab1dc02": [
@@ -642,6 +639,9 @@
       6
     ],
     "84d9228e": [
+      0
+    ],
+    "1ff3b10a": [
       0
     ]
   }
